@@ -1,0 +1,49 @@
+body {
+    margin: 50px;
+    width: 1400px;
+    align-content: center;
+}
+
+.box {
+    background-color: gray;
+    margin: 10px;
+    color: #d3d3d3;
+    font-size: 32px;
+    font-weight: 900;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px 0.5px #000;
+}
+
+h1 {
+    font-size: 60 px;
+    text-align: left;
+    padding: 20px 0px 20px 20px;
+    margin-bottom: 0px;
+}
+
+.nav {
+    padding: 15px 0px;
+
+}
+
+.header {
+    padding: 30px 0px;
+}
+
+.sidebar {
+    display: inline-block;
+    width: 500px;
+    height: 400px;
+}
+
+.bodyarea {
+    display: inline-block;
+    width: 815px;
+    height: 400px;
+    margin-left: 50px;
+
+}
+
+.footer {
+    padding: 50px 0px;
+}
